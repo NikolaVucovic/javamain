@@ -38,6 +38,8 @@ public class firstmaja {
         int maxValue = getMaxIntNumber();
         System.out.println("max value: " + maxValue);
         System.out.println(summ(3, 7));
+        if (aString != null && aString.equals("Dima"));
+        //do ...
 
 
     }
@@ -58,6 +60,13 @@ public class firstmaja {
     //операторы "=" "+"...ура что то понятное)
     // / деление целочисленное
     // % взятие остатка от деления
+     // логические
+    // & and (&&)
+    // ! отрицание
+    // == равно
+    // | or (||)
+    {
 
+    }
 
 }
