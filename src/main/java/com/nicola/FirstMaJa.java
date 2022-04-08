@@ -1,6 +1,6 @@
 package com.nicola;
 
-public class firstmaja {
+public class FirstMaJa {
     public static void main(String[] args) { //первые три слова не сегодня, про воид чет говорятюскобочки массивы чтоб несколько данных хранит
         char symbol, anotherSymbol;
         symbol = 'm'; //дефолтное есть ноль

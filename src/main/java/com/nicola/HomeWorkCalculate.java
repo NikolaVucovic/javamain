@@ -4,7 +4,7 @@ package com.nicola;
 
 import java.util.Scanner;
 
-public class homeworkcalculate {
+public class HomeWorkCalculate {
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
